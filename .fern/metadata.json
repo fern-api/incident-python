@@ -1,0 +1,9 @@
+{
+  "cliVersion": "3.39.2",
+  "generatorName": "fernapi/fern-python-sdk",
+  "generatorVersion": "4.48.1",
+  "generatorConfig": {
+    "client_class_name": "IncidentIO"
+  },
+  "sdkVersion": "0.0.19598"
+}
