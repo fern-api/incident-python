@@ -1,7 +1,7 @@
 # Incident.io Python Library
 
 [![fern shield](https://img.shields.io/badge/%F0%9F%8C%BF-Built%20with%20Fern-brightgreen)](https://buildwithfern.com?utm_source=github&utm_medium=github&utm_campaign=readme&utm_source=https%3A%2F%2Fgithub.com%2Ffern-api%2Fincident-python)
-[![pypi](https://img.shields.io/pypi/v/fern)](https://pypi.python.org/pypi/fern)
+[![pypi](https://img.shields.io/pypi/v/fern-incidentio)](https://pypi.python.org/pypi/fern-incidentio)
 
 The Incident.io Python library provides convenient access to the Incident.io APIs from Python.
 
@@ -22,7 +22,7 @@ The Incident.io Python library provides convenient access to the Incident.io API
 ## Installation
 
 ```sh
-pip install fern
+pip install fern-incidentio
 ```
 
 ## Reference
